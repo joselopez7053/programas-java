@@ -1,0 +1,6 @@
+run:
+Ingresa la calificacion de los parciales (0 a 100): 90
+Ingresa la calificacion del proyecto (0 a 100): 90
+Ingresa la calificacion del examen final (0 a 100): 90
+La calificacion final es: 90.0
+BUILD SUCCESSFUL (total time: 11 seconds)

@@ -1,0 +1,4 @@
+run:
+Ingresa el precio del producto: 50000
+El precio final con descuento es: $37500.0
+BUILD SUCCESSFUL (total time: 4 seconds)

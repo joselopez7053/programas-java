@@ -1,0 +1,16 @@
+run:
+Ingresa la cantidad en pesos mexicanos: 100
+Elige la moneda:
+1. D0lar
+2. Euro
+3. Bath
+4. Yen
+5. Won
+6. D0lar Australiano
+7. Sol
+8. D0lar Canadiense
+9. Bolivar
+10. Peso Argentino
+8
+La cantidad convertida es: 8.0
+BUILD SUCCESSFUL (total time: 5 seconds)
